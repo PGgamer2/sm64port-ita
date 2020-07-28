@@ -15,9 +15,9 @@ Attenzione: la traduzione rimpiazzerà quella inglese!
 ```
 sm64port-ita
 └── text
-	└── us
-		├── courses.h: nomi dei livelli e delle missioni del gioco
-		└── dialogs.h: dialoghi dei vari personaggi
+    └── us
+        ├── courses.h: nomi dei livelli e delle missioni del gioco
+        └── dialogs.h: dialoghi dei vari personaggi
 ```
 
 ## Installazione
