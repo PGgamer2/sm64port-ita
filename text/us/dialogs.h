@@ -259,28 +259,28 @@ Shhh! Please walk\n\
 quietly in the hallway!"))
 
 DEFINE_DIALOG(DIALOG_020, 1, 6, 95, 150, _("\
-Dear Mario:\n\
-Please come to the\n\
-castle. I've baked\n\
-a cake for you.\n\
-Yours truly--\n\
-Princess Toadstool"))
+Caro Mario:\n\
+ti prego, vieni al\n\
+castello. Ho cucinato\n\
+un dolce per te.\n\
+Tanti saluti--\n\
+Principessa Peach"))
 
 DEFINE_DIALOG(DIALOG_021, 1, 5, 95, 200, _("\
-Welcome.\n\
-No one's home!\n\
-Now get lost\n\
-and don't come back!\n\
+Benvenuto.\n\
+Nessuno e' a casa!\n\
+Ora smamma\n\
+e non tornare piu'!\n\
 Gwa ha ha!"))
 
 DEFINE_DIALOG(DIALOG_022, 1, 2, 95, 200, _("\
-You need a key to open\n\
-this door."))
+Hai bisogno di una chiave\n\
+per aprire questa porta."))
 
 DEFINE_DIALOG(DIALOG_023, 1, 3, 95, 200, _("\
-This key doesn't fit!\n\
-Maybe it's for the\n\
-basement..."))
+Questa chiave non entra!\n\
+Forse e' per\n\
+il seminterrato..."))
 
 DEFINE_DIALOG(DIALOG_024, 1, 5, 95, 200, _("\
 You need Star power to\n\
@@ -372,18 +372,18 @@ around while flying, and\n\
 press [Z] to land."))
 
 DEFINE_DIALOG(DIALOG_033, 1, 6, 30, 200, _("\
-Ciao! You've reached\n\
-Princess Toadstool's\n\
-castle via a warp pipe.\n\
-Using the controller is a\n\
-piece of cake. Press [A] to\n\
-jump and [B] to attack.\n\
-Press [B] to read signs,\n\
-too. Use the Control Stick\n\
-in the center of the\n\
-controller to move Mario\n\
-around. Now, head for\n\
-the castle."))
+Ciao! Sei arrivato al\n\
+castello della principessa\n\
+attraversando un tubo.\n\
+Usare il controller e'\n\
+facile. Premi [A] per\n\
+saltare e [B] per attaccare.\n\
+Premendo [B] puoi anche\n\
+leggere i cartelli.\n\
+Usa il joystick\n\
+al centro del controller\n\
+per muovere Mario in giro.\n\
+Su', ora vai al castello."))
 
 DEFINE_DIALOG(DIALOG_034, 1, 6, 30, 200, _("\
 Good afternoon. The\n\
@@ -1954,17 +1954,6 @@ fast to do a Body Slide\n\
 attack. To stand while\n\
 sliding, press [A] or [B]."))
 
-#ifdef VERSION_EU
-#define KEEP_ON_PLAYING ".."
-#else
-#define KEEP_ON_PLAYING "\n\
-We want you to keep on\n\
-playing, so we have a\n\
-little something for you.\n\
-We hope that you like it!\n\
-Enjoy!!!"
-#endif
-
 DEFINE_DIALOG(DIALOG_161, 1, 4, 30, 200, _("\
 Mario!!!\n\
 It that really you???\n\
@@ -1985,8 +1974,12 @@ message for you.\n\
 『Thanks for playing Super\n\
 Mario 64! This is the\n\
 end of the game, but not\n\
-the end of the fun." \
-KEEP_ON_PLAYING "』\n\
+the end of the fun.\n\
+We want you to keep on\n\
+playing, so we have a\n\
+little something for you.\n\
+We hope that you like it!\n\
+Enjoy!!!』\n\
 \n\
 The Super Mario 64 Team"))
 
@@ -2059,16 +2052,17 @@ so come back later.\n\
 //--Koopa the Quick"))
 
 DEFINE_DIALOG(DIALOG_167, 1, 4, 30, 200, _("\
-Princess Toadstool's\n\
-castle is just ahead.\n\
+Il castello della\n\
+principessa e' davanti\n\
+a te.\n\
 \n\
-\n\
-Press [A] to jump, [Z] to\n\
-crouch, and [B] to punch,\n\
-read a sign, or grab\n\
-something.\n\
-Press [B] again to throw\n\
-something you're holding."))
+Premi [A] per saltare, [Z] per\n\
+piegarti, e [B] per dare\n\
+pugni, leggere i cartelli\n\
+o prendere qualcosa.\n\
+Premi [B] di nuovo per\n\
+lanciare cio' che hai\n\
+in mano"))
 
 DEFINE_DIALOG(DIALOG_168, 1, 5, 30, 200, _("\
 Hey! Knock it off! That's\n\

@@ -9,7 +9,8 @@ Attention: the italian traduction will replace the english one!
 Questa repository contiene una traduzione italiana (ancora non finita) per [SM64](https://github.com/sm64-port/sm64-port).
 Se sei italiano e vuoi contribuire, sarai ben accolto :)
 
-Attenzione: la traduzione rimpiazzerà quella inglese!
+**Attenzione: la traduzione rimpiazzerà quella inglese!**
+**Se devi modificare la traduzione NON mettere caratteri con l'accento come `è` e `ù`, dato che non sono supportati.**
 
 ## Struttura della repository:
 ```
