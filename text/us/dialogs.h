@@ -153,50 +153,50 @@ Ready?\n\
 //Go//// Don't Go"))
 
 DEFINE_DIALOG(DIALOG_010, 1, 4, 30, 200, _("\
-You've stepped on the\n\
-Wing Cap Switch. Wearing\n\
-the Wing Cap, you can\n\
-soar through the sky.\n\
-Now Wing Caps will pop\n\
-out of all the red blocks\n\
-you find.\n\
+Hai appena attivato il\n\
+pulsante per il cappello\n\
+alato. Indossandolo\n\
+potrai volare nel cielo.\n\
+Da adesso potrai trovare\n\
+dei cappelli alati\n\
+dentro i cubi rossi.\n\
 \n\
-Would you like to Save?\n\
+Vuoi salvare la partita?\n\
 \n\
-//Yes////No"))
+//Si////No"))
 
 DEFINE_DIALOG(DIALOG_011, 1, 4, 30, 200, _("\
-You've just stepped on\n\
-the Metal Cap Switch!\n\
-The Metal Cap makes\n\
-Mario invincible.\n\
-Now Metal Caps will\n\
-pop out of all of the\n\
-green blocks you find.\n\
+Hai appena attivato il\n\
+pulsante per il cappello\n\
+metallico! Con esso\n\
+Mario diventera'\n\
+invincibile.\n\
+Da adesso potrai trovare\n\
+dei cappelli metallici\n\
+dentro i cubi verdi.\n\
+Vuoi salvare la partita?\n\
 \n\
-Would you like to Save?\n\
-\n\
-//Yes////No"))
+//Si////No"))
 
 DEFINE_DIALOG(DIALOG_012, 1, 4, 30, 200, _("\
-You've just stepped on\n\
-the Vanish Cap Switch.\n\
-The Vanish Cap makes\n\
-Mario disappear.\n\
-Now Vanish Caps will pop\n\
-from all of the blue\n\
-blocks you find.\n\
+Hai appena attivato il\n\
+pulsante per il cappello\n\
+dell'invisibilita'. Con\n\
+esso Mario scomparira'.\n\
+Da adesso potrai trovare\n\
+questo cappello\n\
+dentro i cubi blu.\n\
 \n\
-Would you like to Save?\n\
+Vuoi salvare la partita?\n\
 \n\
-//Yes////No"))
+//Si////No"))
 
 DEFINE_DIALOG(DIALOG_013, 1, 5, 30, 200, _("\
-You've collected 100\n\
-coins! Mario gains more\n\
-power from the castle.\n\
-Do you want to Save?\n\
-//Yes////No"))
+Hai collezionato 100\n\
+monete! Mario riceve\n\
+piu' potere dal castello.\n\
+Vuoi salvare la partita?\n\
+//Si////No"))
 
 DEFINE_DIALOG(DIALOG_014, 1, 4, 30, 200, _("\
 Wow! Another Power Star!\n\
@@ -283,67 +283,66 @@ Forse e' per\n\
 il seminterrato..."))
 
 DEFINE_DIALOG(DIALOG_024, 1, 5, 95, 200, _("\
-You need Star power to\n\
-open this door. Recover a\n\
-Power Star from an enemy\n\
-inside one of the castle's\n\
-paintings."))
+Hai bisogno di una stella\n\
+per aprire questa porta.\n\
+Sconfiggi i nemici\n\
+che si trovano dentro\n\
+i quadri del castello."))
 
 DEFINE_DIALOG(DIALOG_025, 1, 4, 95, 200, _("\
-It takes the power of\n\
-3 Stars to open this\n\
-door. You need [%] more\n\
-Stars."))
+Hai bisogno del potere\n\
+di 3 stelle per aprire\n\
+questa porta. Devi ancora\n\
+prendere altre [%] stelle."))
 
 DEFINE_DIALOG(DIALOG_026, 1, 4, 95, 200, _("\
-It takes the power of\n\
-8 Stars to open this\n\
-door. You need [%] more\n\
-Stars."))
+Hai bisogno del potere\n\
+di 8 stelle per aprire questa\n\
+porta. Devi ancora prendere\n\
+altre [%] stelle."))
 
 DEFINE_DIALOG(DIALOG_027, 1, 4, 95, 200, _("\
-It takes the power of\n\
-30 Stars to open this\n\
-door. You need [%] more\n\
-Stars."))
+Hai bisogno del potere\n\
+di 30 stelle per aprire questa\n\
+porta. Devi ancora prendere\n\
+altre [%] stelle."))
 
 DEFINE_DIALOG(DIALOG_028, 1, 4, 95, 200, _("\
-It takes the power of\n\
-50 Stars to open this\n\
-door. You need [%] more\n\
-Stars."))
+Hai bisogno del potere\n\
+di 50 stelle per aprire questa\n\
+porta. Devi ancora prendere\n\
+altre [%] stelle."))
 
 DEFINE_DIALOG(DIALOG_029, 1, 5, 95, 200, _("\
-To open the door that\n\
-leads to the 『endless』\n\
-stairs, you need 70\n\
-Stars.\n\
+Per aprire la porta\n\
+che conduce alle scale\n\
+『endless』, devi avere\n\
+70 stelle.\n\
 Bwa ha ha!"))
 
 DEFINE_DIALOG(DIALOG_030, 1, 6, 30, 200, _("\
-Hello! The Lakitu Bros.,\n\
-cutting in with a live\n\
-update on Mario's\n\
-progress. He's about to\n\
-learn a technique for\n\
-sneaking up on enemies.\n\
-The trick is this: He has\n\
-to walk very slowly in\n\
-order to walk quietly.\n\
+Ciao! Vi interrompiamo\n\
+per darvi una notizia\n\
+sui progressi di Mario.\n\
+Lui sta per\n\
+imparare una tecnica\n\
+per passare vicino ai\n\
+nemici quatto quatto.\n\
+Il trucco e' questo: deve\n\
+camminare molto\n\
+lentamente.\n\
 \n\
 \n\
-\n\
-And wrapping up filming\n\
-techniques reported on\n\
-earlier, you can take a\n\
-look around using [C]> and\n\
-[C]<. Press [C]| to view the\n\
-action from a distance.\n\
-When you can't move the\n\
-camera any farther, the\n\
-buzzer will sound. This is\n\
-the Lakitu Bros.,\n\
-signing off."))
+E riprendendo i controlli\n\
+per la telecamera detti\n\
+prima, puoi guardarti\n\
+attorno usando [C]> e\n\
+[C]<. Premi [C]| per guardare\n\
+il tutto dalla distanza.\n\
+Quando non potrai muovere\n\
+la telecamera piu'\n\
+di cosi',\n\
+sentirai un suono."))
 
 DEFINE_DIALOG(DIALOG_031, 1, 5, 30, 200, _("\
 No way! You beat me...\n\
@@ -386,39 +385,39 @@ per muovere Mario in giro.\n\
 Su', ora vai al castello."))
 
 DEFINE_DIALOG(DIALOG_034, 1, 6, 30, 200, _("\
-Good afternoon. The\n\
-Lakitu Bros., here,\n\
-reporting live from just\n\
-outside the Princess's\n\
-castle.\n\
+Buon pomeriggio. Qui\n\
+parla il fratello Lakitu\n\
+che sta riprendendo\n\
+la scena davanti\n\
+al castello.\n\
 \n\
-Mario has just arrived\n\
-on the scene, and we'll\n\
-be filming the action live\n\
-as he enters the castle\n\
-and pursues the missing\n\
-Power Stars.\n\
-As seasoned cameramen,\n\
-we'll be shooting from the\n\
-recommended angle, but\n\
-you can change the\n\
-camera angle by pressing\n\
-the [C] Buttons.\n\
-If we can't adjust the\n\
-view any further, we'll\n\
-buzz. To take a look at\n\
-the surroundings, stop\n\
-and press [C]^.\n\
+Mario e' appena arrivato\n\
+e noi lo stiamo\n\
+filmando in live stream\n\
+mentre entra nel castello\n\
+e incomincia a cercare\n\
+le stelle scomparse.\n\
+Il cameraman cerchera'\n\
+di riprenderti dal\n\
+miglior angolo, pero'\n\
+potrai cambiarne\n\
+l'angolazione premendo\n\
+i pulsanti [C].\n\
+Se non possiamo muovere\n\
+la telecamera piu' di cosi'\n\
+sentirai un rumore.\n\
+Per guardarti in giro,\n\
+fermati e premi [C]^.\n\
 \n\
-Press [A] to resume play.\n\
-Switch camera modes with\n\
-the [R] Button. Signs along\n\
-the way will review these\n\
-instructions.\n\
+Poi premi [A] per continuare.\n\
+Cambia la modalita' della\n\
+telecamera premendo [R].\n\
+I cartelli ti ricorderanno\n\
+queste istruzioni.\n\
 \n\
-For now, reporting live,\n\
-this has been the\n\
-Lakitu Bros."))
+Per ora e' tutto, ci\n\
+rivedremo per aggior-\n\
+-narvi sulla situazione."))
 
 DEFINE_DIALOG(DIALOG_035, 1, 5, 30, 200, _("\
 There are four camera, or\n\
