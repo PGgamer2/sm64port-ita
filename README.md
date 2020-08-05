@@ -12,6 +12,8 @@ Se sei italiano e vuoi contribuire, sarai ben accolto :)
 **Attenzione: la traduzione rimpiazzerà quella inglese!**
 **Se devi modificare la traduzione NON mettere caratteri con l'accento come `è` e `ù`, dato che non sono supportati.**
 
+![Bob-Omb Battlefield](https://raw.githubusercontent.com/PGgamer2/sm64port-ita/master/modpreview.gif)
+
 ## Struttura della repository:
 ```
 sm64port-ita
