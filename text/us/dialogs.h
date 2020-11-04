@@ -1,45 +1,45 @@
 // Parameters: dialog enum ID, (unused), lines per box, left offset, width
 
 DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
-Wow! You're smack in the\n\
-middle of the battlefield.\n\
-You'll find the Power\n\
-Stars that Bowser stole\n\
-inside the painting\n\
-worlds.\n\
-First, talk to the\n\
-Bob-omb Buddy. (Press [B]\n\
-to talk.) He'll certainly\n\
-help you out, and so will\n\
-his friends in other\n\
-areas.\n\
-To read signs, stop, face\n\
-them and press [B]. Press [A]\n\
-or [B] to scroll ahead. You\n\
-can talk to some other\n\
-characters by facing them\n\
-and pressing [B]."))
+Wow! Sei finito nel\n\
+bel mezzo del campo\n\
+di battaglia.\n\
+Troverai la stella\n\
+che Bowser ha rubato\n\
+dentro hai dipinti.\n\
+Per prima cosa parla\n\
+con quella Bob-omba. (Premi\n\
+[B] per parlare.) Ti potra'\n\
+aiutare. La stessa cosa\n\
+la faranno i suoi\n\
+amici nei paraggi.\n\
+Per leggere i cartelli,\n\
+guardali e premi [B]. Premi [A]\n\
+o [B] per scorrere il messaggio.\n\
+Puoi parlare con gli altri\n\
+personaggi premendo\n\
+il pulsante [B]."))
 
 DEFINE_DIALOG(DIALOG_001, 1, 4, 95, 200, _("\
-Watch out! If you wander\n\
-around here, you're liable\n\
-to be splattered by a\n\
-water bomb!\n\
-Those enemy Bob-ombs love\n\
-to fight, and they're\n\
-always finding ways to\n\
-attack.\n\
-This meadow has become\n\
-a battlefield ever since\n\
-the Big Bob-omb got his\n\
-paws on the Power Star.\n\
-Can you recover the Star\n\
-for us? Cross the bridge\n\
-and go left up the path\n\
-to find the Big Bob-omb.\n\
-Please come back to see\n\
-me after you've retrieved\n\
-the Power Star!"))
+Attento! Da queste parti\n\
+e' facile essere\n\
+schiacciati da una\n\
+bomba d'acqua!\n\
+Queste Bob-ombe nemiche\n\
+amano combattere, e\n\
+troveranno sempre una\n\
+maniera per attaccarti.\n\
+Questo prato e' diventato\n\
+un campo di guerra da\n\
+quando la grande Bob-omba\n\
+ha ottenuto quella stella.\n\
+Puoi riprendere quella\n\
+stella per noi? Attraversa\n\
+il ponte e vai verso sinistra\n\
+per trovare il re Bob-omba\n\
+Per favore ritorna quando\n\
+avrai ripreso\n\
+la stella!"))
 
 DEFINE_DIALOG(DIALOG_002, 1, 4, 95, 200, _("\
 Hey, you! It's dangerous\n\
