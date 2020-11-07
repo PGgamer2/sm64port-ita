@@ -1,3 +1,4 @@
+// #TODO
 // Parameters: dialog enum ID, (unused), lines per box, left offset, width
 
 DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
@@ -261,9 +262,9 @@ quietly in the hallway!"))
 DEFINE_DIALOG(DIALOG_020, 1, 6, 95, 150, _("\
 Caro Mario:\n\
 ti prego, vieni al\n\
-castello. Ho cucinato\n\
-un dolce per te.\n\
-Tanti saluti--\n\
+castello. Ho preparato\n\
+una torta per te.\n\
+Con affetto--\n\
 Principessa Peach"))
 
 DEFINE_DIALOG(DIALOG_021, 1, 5, 95, 200, _("\
