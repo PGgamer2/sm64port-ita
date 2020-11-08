@@ -137,7 +137,7 @@
  */
 // Main Screens
 #define TEXT_MARIO _("MARIO") // View Score Menu
-#define TEXT_SELECT_FILE _("SELEZIONA FILE")
+#define TEXT_SELECT_FILE _("SCEGLI FILE")
 #define TEXT_CHECK_FILE _("ESAMINA FILE")
 #define TEXT_COPY_FILE _("COPIA FILE")
 #define TEXT_ERASE_FILE _("ELIMINA FILE")
@@ -158,8 +158,8 @@
 #define TEXT_HEADSET _("CUFFIE")
 
 // Misc Menu Text
-#define TEXT_SAVED_DATA_EXISTS _("DATI GIA' ESISTENTI")
-#define TEXT_NO_SAVED_DATA_EXISTS _("DATI NON TROVATI")
+#define TEXT_SAVED_DATA_EXISTS _("DATI ESISTENTI")
+#define TEXT_NO_SAVED_DATA_EXISTS _("NESSUN DATO ESISTENTE")
 
 // Inside a Menu
 #define TEXT_RETURN _("INDIETRO")
@@ -197,7 +197,7 @@
 #define TEXT_EXIT_COURSE _("ESCI DAL LIVELLO")
 #define TEXT_EXIT_GAME _("ESCI DAL GIOCO")
 #ifndef VERSION_EU // "R" text is different in EU
-#define TEXT_CAMERA_ANGLE_R _("IMPOSTA LA ROTAZIONE DELLA TELECAMERA CON R")
+#define TEXT_CAMERA_ANGLE_R _("IMPOSTA ROTAZIONE TELECAMERA CON R")
 #endif
 
 // Camera Options
@@ -213,7 +213,7 @@
 
 // Save Options
 #define TEXT_SAVE_AND_CONTINUE _("SALVA E CONTINUA")
-#define TEXT_SAVE_AND_QUIT _("SALVA ED ESCI")
+#define TEXT_SAVE_AND_QUIT _("SALVA E TORNA AL MENU")
 #define TEXT_SAVE_EXIT_GAME _("SALVA ED ESCI DAL GIOCO")
 #define TEXT_CONTINUE_WITHOUT_SAVING _("CONTINUA SENZA SALVARE")
 
@@ -316,7 +316,7 @@
 #define TEXT_MONO_DE _("MONO")
 #define TEXT_HEADSET_DE _("PHONES")
 
-#define TEXT_ENGLISH _("ENGLISH")
+#define TEXT_ENGLISH _("ITALIANO")
 #define TEXT_FRENCH _("FRANÇAIS")
 #define TEXT_GERMAN _("DEUTSCH")
 
@@ -334,7 +334,7 @@
  * Menus Text (Pause, Course Completed)
  */
 // Main Courses
-// English, "R" text is different
+// Italian, "R" text is different
 #define TEXT_CAMERA_ANGLE_R             _("IMPOSTA ROTAZIONE TELECAMERA CON [R]")
 // French
 #define TEXT_COURSE_FR                  _("NIVEAU")

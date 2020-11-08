@@ -265,7 +265,7 @@ ti prego, vieni al\n\
 castello. Ho preparato\n\
 una torta per te.\n\
 Con affetto--\n\
-Principessa Peach"))
+Principessa Toadstool"))
 
 DEFINE_DIALOG(DIALOG_021, 1, 5, 95, 200, _("\
 Benvenuto.\n\
